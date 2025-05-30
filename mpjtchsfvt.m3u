@@ -1,0 +1,177 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno=1, Lifetime | 188.8ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-chno=2, Canal RCN | 189.4ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-chno=3, Discovery Kids | 189.4ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-chno=4, HBO | 189.5ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02q/index.m3u8
+#EXTINF:-1 tvg-chno=5, Studio Universal HD | 189.5ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a05d/index.m3u8
+#EXTINF:-1 tvg-chno=6, TNT | 189.5ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-chno=7, HBO 2 | 189.6ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-chno=8, TCM | 189.6ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-chno=9, Paramount HD | 189.7ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a052/index.m3u8
+#EXTINF:-1 tvg-chno=10, ESPN 2 Latin | 190.1ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-chno=11, Canal Uno | 190.3ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-chno=12, TRO | 190.4ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02m/index.m3u8
+#EXTINF:-1 tvg-chno=13, Discovery Turbo | 190.6ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-chno=14, Enlace | 190.6ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-chno=15, Canal del Congreso | 190.7ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-chno=16, Capital | 190.7ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02p/index.m3u8
+#EXTINF:-1 tvg-chno=17, Disney Jr | 190.7ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-chno=18, PJTV SRT | 190.7ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a04b/index.m3u8
+#EXTINF:-1 tvg-chno=19, Disney Channel | 190.8ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-chno=20, ESPN 7 | 190.8ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-chno=21, ESPN CO | 190.8ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-chno=22, Warner | 190.8ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-chno=23, Nickelodeon | 190.9ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-chno=24, Zoom | 190.9ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-chno=25, Discovery Channel | 191.0ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-chno=26, Studio Universal HD | 191.0ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-chno=27, Zona Latina | 191.1ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-chno=28, Canal Caracol | 191.3ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-chno=29, ESPN 5 | 191.3ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-chno=30, ESPN 3 HD | 191.4ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-chno=31, Canal Institucional | 191.5ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-chno=32, Discovery ID | 191.5ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-chno=33, HomeandHealth | 191.5ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-chno=34, BabyFirst | 191.7ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-chno=35, Trece | 191.7ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a039/index.m3u8
+#EXTINF:-1 tvg-chno=36, Cartoon Network | 191.8ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-chno=37, ESPN 6HD | 191.8ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-chno=38, TNT Series HD | 191.9ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-chno=39, Canal Estrellas | 192.0ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-chno=40, USA SD | 192.0ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-chno=41, AE Mundo | 192.1ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-chno=42, Teleantioquia | 192.1ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a05b/index.m3u8
+#EXTINF:-1 tvg-chno=43, City TV | 192.2ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-chno=44, Cinecanal | 192.4ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-chno=45, Telecafe | 192.4ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-chno=46, Win Sports+ HD | 192.4ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-chno=47, Telecaribe | 192.5ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a036/index.m3u8
+#EXTINF:-1 tvg-chno=48, Cinemax | 192.7ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-chno=49, TNT Novelas | 192.7ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-chno=50, Telemundo | 192.7ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-chno=51, AXN | 192.9ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-chno=52, ESPN 2 | 193.2ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-chno=53, Telepacifico | 193.2ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-chno=54, TNT HD | 193.7ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a056/index.m3u8
+#EXTINF:-1 tvg-chno=55, Teleislas | 193.9ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-chno=56, RCN HD | 196.4ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a054/index.m3u8
+#EXTINF:-1 tvg-chno=57, ESPN HD | 200.8ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-chno=58, Senal Colombia | 201.4ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-chno=59, ESPN Premium HD | 201.5ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-chno=60, Caracol HD | 201.7ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a055/index.m3u8
+#EXTINF:-1 tvg-chno=61, Universal | 201.8ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-chno=62, HBO Plus | 201.9ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-chno=63, Space | 202.0ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-chno=64, Sony | 202.6ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-chno=65, HBO Family | 202.7ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-chno=66, ESPN HD | 203.1ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-chno=67, HBO Xtreme SD | 203.1ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-chno=68, History Channel | 204.0ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-chno=69, ESPN | 205.5ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-chno=70, E Entertainment | 206.1ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-chno=71, TLC | 206.3ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-chno=72, ViaX | 207.7ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-chno=73, Win | 208.5ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02x/index.m3u8
+#EXTINF:-1 tvg-chno=74, ESPN 3 | 209.9ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-chno=75, ESPN 6 | 211.1ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-chno=76, FX | 212.4ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-chno=77, Studio Universal | 212.4ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-chno=78, STAR CHANNEL | 212.8ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-chno=79, CNN Espanol | 212.9ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-chno=80, Esne TV | 213.5ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-chno=81, ESPN 2 HD | 214.2ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-chno=82, RCN Novelas | 214.2ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-chno=83, ESPN 4HD | 215.6ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a057/index.m3u8
+#EXTINF:-1 tvg-chno=84, Animal Planet | 216.8ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-chno=85, America TV PY | 217.5ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a022/index.m3u8
+#EXTINF:-1 tvg-chno=86, TVE | 218.8ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-chno=87, Nat Geo | 694.5ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-chno=88, MTV | 695.1ms | ☆☆☆☆☆ 0/5
+http://181.205.220.43:8000/play/a006/index.m3u8

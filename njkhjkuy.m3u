@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime | 188.8ms" tvg-logo="" group-title="",Lifetime | 188.8ms
+http://181.205.220.43:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal RCN | 189.4ms" tvg-logo="" group-title="",Canal RCN | 189.4ms
+http://181.205.220.43:8000/play/a02a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids | 189.4ms" tvg-logo="" group-title="",Discovery Kids | 189.4ms
+http://181.205.220.43:8000/play/a03b/index.m3u8
+
+
+

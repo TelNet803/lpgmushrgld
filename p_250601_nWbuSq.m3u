@@ -1,3 +1,145 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚽_deportes_espn",DEP ESPN | ESPN 1 MX
-http://cinehometvs.icu:8080/dufod1/ZVWQo3gEzL/68412
+#EXTINF:-1 group-title="-",A&E HD
+http://200.106.124.94:1983/play/a1jw/index.m3u8
+#EXTINF:-1 group-title="-",AMC HD
+http://200.106.124.94:1983/play/a1k8/index.m3u8
+#EXTINF:-1 group-title="-",ATRES SERIES HD
+http://200.106.124.94:1983/play/a1kq/index.m3u8
+#EXTINF:-1 group-title="-",ATV HD
+http://200.106.124.94:1983/play/a1ie/index.m3u8
+#EXTINF:-1 group-title="-",ATV SUR HD
+http://200.106.124.94:1983/play/a1in/index.m3u8
+#EXTINF:-1 group-title="-",ATV+ HD
+http://200.106.124.94:1983/play/a1ii/index.m3u8
+#EXTINF:-1 group-title="-",AXN HD
+http://200.106.124.94:1983/play/a1k4/index.m3u8
+#EXTINF:-1 group-title="-",America TV HD
+http://200.106.124.94:1983/play/a1pa/index.m3u8
+#EXTINF:-1 group-title="-",Animal Planet HD
+http://200.106.124.94:1983/play/a1jt/index.m3u8
+#EXTINF:-1 group-title="-",CHV HD
+http://200.106.124.94:1983/play/a1kg/index.m3u8
+#EXTINF:-1 group-title="-",Canal 13 HD
+http://200.106.124.94:1983/play/a1la/index.m3u8
+#EXTINF:-1 group-title="-",Canal 24 Horas HD
+http://200.106.124.94:1983/play/a1p3/index.m3u8
+#EXTINF:-1 group-title="-",Cartoon Network HD
+http://200.106.124.94:1983/play/a1kr/index.m3u8
+#EXTINF:-1 group-title="-",Cinecanal HD
+http://200.106.124.94:1983/play/a1k1/index.m3u8
+#EXTINF:-1 group-title="-",Cinemax HD
+http://200.106.124.94:1983/play/a1q9/index.m3u8
+#EXTINF:-1 group-title="-",Comedy Central HD
+http://200.106.124.94:1983/play/a1jx/index.m3u8
+#EXTINF:-1 group-title="-",DHE HD
+http://200.106.124.94:1983/play/a1pc/index.m3u8
+#EXTINF:-1 group-title="-",DIRECTV SPORT HD
+http://200.106.124.94:1983/play/a1if/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Channel  HD
+http://200.106.124.94:1983/play/a1ju/index.m3u8
+#EXTINF:-1 group-title="-",Discovery H&H HD
+http://200.106.124.94:1983/play/a1kd/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids HD
+http://200.106.124.94:1983/play/a1kc/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Theater HD
+http://200.106.124.94:1983/play/a1ke/index.m3u8
+#EXTINF:-1 group-title="-",Discovery World HD
+http://200.106.124.94:1983/play/a1lh/index.m3u8
+#EXTINF:-1 group-title="-",Disney HD
+http://200.106.124.94:1983/play/a1p4/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://200.106.124.94:1983/play/a1kj/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://200.106.124.94:1983/play/a1lk/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4HD
+http://200.106.124.94:1983/play/a1k7/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5HD
+http://200.106.124.94:1983/play/a1lc/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6HD
+http://200.106.124.94:1983/play/a1jr/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 7HD
+http://200.106.124.94:1983/play/a1ld/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+http://200.106.124.94:1983/play/a1p8/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD
+http://200.106.124.94:1983/play/a1pd/index.m3u8
+#EXTINF:-1 group-title="-",EXITOSA HD
+http://200.106.124.94:1983/play/a1ib/index.m3u8
+#EXTINF:-1 group-title="-",El Gourmet HD
+http://200.106.124.94:1983/play/a1jy/index.m3u8
+#EXTINF:-1 group-title="-",FX HD
+http://200.106.124.94:1983/play/a1lg/index.m3u8
+#EXTINF:-1 group-title="-",Food Network HD
+http://200.106.124.94:1983/play/a1p9/index.m3u8
+#EXTINF:-1 group-title="-",HBO Family HD
+http://200.106.124.94:1983/play/a1pf/index.m3u8
+#EXTINF:-1 group-title="-",HBO HD
+http://200.106.124.94:1983/play/a1k9/index.m3u8
+#EXTINF:-1 group-title="-",HBO PLUS HD
+http://200.106.124.94:1983/play/a1ij/index.m3u8
+#EXTINF:-1 group-title="-",HBO POP HD
+http://200.106.124.94:1983/play/a1kk/index.m3u8
+#EXTINF:-1 group-title="-",HBO XTREME HD
+http://200.106.124.94:1983/play/a1pg/index.m3u8
+#EXTINF:-1 group-title="-",HEI HD
+http://200.106.124.94:1983/play/a1kl/index.m3u8
+#EXTINF:-1 group-title="-",HOLA TV HD
+http://200.106.124.94:1983/play/a1kn/index.m3u8
+#EXTINF:-1 group-title="-",History Channel HD
+http://200.106.124.94:1983/play/a1jv/index.m3u8
+#EXTINF:-1 group-title="-",ID HD
+http://200.106.124.94:1983/play/a1k5/index.m3u8
+#EXTINF:-1 group-title="-",KARIBEÑA HD
+http://200.106.124.94:1983/play/a1ik/index.m3u8
+#EXTINF:-1 group-title="-",La Red HD
+http://200.106.124.94:1983/play/a1p2/index.m3u8
+#EXTINF:-1 group-title="-",Las Estrellas HD
+http://200.106.124.94:1983/play/a1pb/index.m3u8
+#EXTINF:-1 group-title="-",Latina HD
+http://200.106.124.94:1983/play/a1pe/index.m3u8
+#EXTINF:-1 group-title="-",MEGA HD
+http://200.106.124.94:1983/play/a1ks/index.m3u8
+#EXTINF:-1 group-title="-",MTV 00s HD
+http://200.106.124.94:1983/play/a1kp/index.m3u8
+#EXTINF:-1 group-title="-",MTV HD
+http://200.106.124.94:1983/play/a1ka/index.m3u8
+#EXTINF:-1 group-title="-",MTV LIVE HD
+http://200.106.124.94:1983/play/a1li/index.m3u8
+#EXTINF:-1 group-title="-",Nat Geo HD
+http://200.106.124.94:1983/play/a1jz/index.m3u8
+#EXTINF:-1 group-title="-",Nick HD
+http://200.106.124.94:1983/play/a1ko/index.m3u8
+#EXTINF:-1 group-title="-",Paramount HD
+http://200.106.124.94:1983/play/a1js/index.m3u8
+#EXTINF:-1 group-title="-",Pasiones HD
+http://200.106.124.94:1983/play/a1kh/index.m3u8
+#EXTINF:-1 group-title="-",STAR CHANNEL HD
+http://200.106.124.94:1983/play/a1ku/index.m3u8
+#EXTINF:-1 group-title="-",Sony HD
+http://200.106.124.94:1983/play/a1k2/index.m3u8
+#EXTINF:-1 group-title="-",Space HD
+http://200.106.124.94:1983/play/a1k6/index.m3u8
+#EXTINF:-1 group-title="-",Stingray Concerts HD
+http://200.106.124.94:1983/play/a1p6/index.m3u8
+#EXTINF:-1 group-title="-",Studio Universal HD
+http://200.106.124.94:1983/play/a1p7/index.m3u8
+#EXTINF:-1 group-title="-",Sun Channel HD
+http://200.106.124.94:1983/play/a1kt/index.m3u8
+#EXTINF:-1 group-title="-",TNT HD
+http://200.106.124.94:1983/play/a1k0/index.m3u8
+#EXTINF:-1 group-title="-",TNT Novelas HD
+http://200.106.124.94:1983/play/a1lj/index.m3u8
+#EXTINF:-1 group-title="-",TNT Series HD
+http://200.106.124.94:1983/play/a1lf/index.m3u8
+#EXTINF:-1 group-title="-",TNT Sports Premiun HD
+http://200.106.124.94:1983/play/a1ki/index.m3u8
+#EXTINF:-1 group-title="-",TV+ HD
+http://200.106.124.94:1983/play/a1p1/index.m3u8
+#EXTINF:-1 group-title="-",TVN HD
+http://200.106.124.94:1983/play/a1kf/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL CHANNEL HD
+http://200.106.124.94:1983/play/a1lb/index.m3u8
+#EXTINF:-1 group-title="-",WILLAX HD
+http://200.106.124.94:1983/play/a1dc/index.m3u8
+#EXTINF:-1 group-title="-",Warner Channel HD
+http://200.106.124.94:1983/play/a1k3/index.m3u8

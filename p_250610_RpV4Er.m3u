@@ -420,15 +420,15 @@ http://179.1.146.123:8002/play/a0o9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLPERU | 34.3ms" tvg-logo="" group-title="Deportes Perú",GOLPERU | 34.3ms
 http://38.252.209.39:40000/play/a0as/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLPERU | 40.7ms" tvg-logo="" group-title="Deportes Perú",GOLPERU | 40.7ms
-http://200.4.254.142:8000/play/GOLPERU/index.m3u8
+http://200.4.254.142:8000/play/golperu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLPERU | 45.8ms" tvg-logo="" group-title="Deportes Perú",GOLPERU | 45.8ms
-http://200.4.254.139:8000/play/GOLPERU/index.m3u8
+http://200.4.254.139:8000/play/golperu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLPERU | 58.2ms" tvg-logo="" group-title="Deportes Perú",GOLPERU | 58.2ms
-http://200.4.254.140:8000/play/GOLPERU/index.m3u8
+http://200.4.254.140:8000/play/golperu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLPERU | 59ms" tvg-logo="" group-title="Deportes Perú",GOLPERU | 59ms
-http://200.4.254.138:8000/play/GOLPERU/index.m3u8
+http://200.4.254.138:8000/play/golperundex.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLPERU | 60.2ms" tvg-logo="" group-title="Deportes Perú",GOLPERU | 60.2ms
-http://200.4.254.141:8000/play/GOLPERU/index.m3u8
+http://200.4.254.141:8000/play/golperu/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLPERU |  71.6ms" tvg-logo="" group-title="Deportes Perú",GOLPERU |  71.6ms
 http://38.137.192.250:8000/play/as11s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1 | 33.4ms" tvg-logo="" group-title="Deportes Perú",L1 | 33.4ms

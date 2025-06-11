@@ -31,8 +31,6 @@ http://161.132.9.180:8001/play/a0dd/index.m3u8
 http://200.60.46.118:8001/play/a0m3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 50.1ms" tvg-logo="" group-title="Canales Peruanos",Latina | 50.1ms
 http://179.1.146.123:8002/play/a0b6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 50.4ms" tvg-logo="" group-title="Canales Peruanos",Latina | 50.4ms
-http://190.102.139.253:7878/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 51.6ms" tvg-logo="" group-title="Canales Peruanos",Latina | 51.6ms
 http://138.99.179.229:8000/play/a0ki/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina |  51.7ms" tvg-logo="" group-title="Canales Peruanos",Latina |  51.7ms
@@ -49,14 +47,10 @@ http://181.224.226.128:5000/play/a03n/index.m3u8
 http://179.1.146.123:8002/play/a0fe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina |  55.4ms" tvg-logo="" group-title="Canales Peruanos",Latina |  55.4ms
 http://38.137.192.250:8000/play/a0pj/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 68.3ms" tvg-logo="" group-title="Canales Peruanos",Latina | 68.3ms
-http://190.102.139.242:7878/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 68.7ms" tvg-logo="" group-title="Canales Peruanos",Latina | 68.7ms
 http://201.230.105.202:8126/play/a0rt1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 74.8ms" tvg-logo="" group-title="Canales Peruanos",Latina | 74.8ms
 http://38.191.228.9:8200/play/a0rz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latina |  78.1ms" tvg-logo="" group-title="Canales Peruanos",Latina |  78.1ms
-http://190.102.139.240:7878/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 82.9ms" tvg-logo="" group-title="Canales Peruanos",Latina | 82.9ms
 http://200.106.124.193:1983/play/a1pe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 84.7ms" tvg-logo="" group-title="Canales Peruanos",Latina | 84.7ms
@@ -117,8 +111,6 @@ http://138.99.179.229:8000/play/a0ke/index.m3u8
 http://179.1.146.123:8002/play/a0fc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="America TV | 61.4ms" tvg-logo="" group-title="Canales Peruanos",America TV | 61.4ms
 http://201.230.101.89:12000/play/a042/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="America TV | 61.6ms" tvg-logo="" group-title="Canales Peruanos",America TV | 61.6ms
-http://190.102.139.253:7878/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="America TV | 62.1ms" tvg-logo="" group-title="Canales Peruanos",America TV | 62.1ms
 http://38.56.98.38:8050/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="America TV | 66.3ms" tvg-logo="" group-title="Canales Peruanos",America TV | 66.3ms

@@ -361,11 +361,11 @@ http://161.132.9.180:8001/play/a0kb/index.m3u8
 http://38.172.128.4:8000/play/a0rn/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1 MAX | 40.2ms" tvg-logo="" group-title="Deportes Perú",L1 MAX | 40.2ms
 http://38.56.98.38:8050/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="L1 MAX | 41.9ms" tvg-logo="" group-title="Deportes",L1 MAX | 41.9ms
+#EXTINF:-1 tvg-id="" tvg-name="L1 MAX | 41.9ms" tvg-logo="" group-title="Deportes Perú",L1 MAX | 41.9ms
 http://200.4.254.142:8000/play/foxsports3/index.m3u8
-#EXTINF:-1 tg-id="" tvg-name="L1 MAX  | 43ms" tvg-logo="" group-title="Deportes",L1 MAX | 43ms
+#EXTINF:-1 tg-id="" tvg-name="L1 MAX  | 43ms" tvg-logo="" group-title="Deportes Perú",L1 MAX | 43ms
 http://200.4.254.141:8000/play/foxsports3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="L1 MAX | 44.1ms" tvg-logo="" group-title="Deportes",L1 MAX | 44.1ms
+#EXTINF:-1 tvg-id="" tvg-name="L1 MAX | 44.1ms" tvg-logo="" group-title="Deportes Perú",L1 MAX | 44.1ms
 http://200.4.254.139:8000/play/foxsports3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1MAX | 45.8ms" tvg-logo="" group-title="Deportes Perú",L1MAX | 45.8ms
 http://181.224.226.128:5000/play/a001/index.m3u8
@@ -375,9 +375,9 @@ http://138.99.179.229:8000/play/a0oo/index.m3u8
 http://138.99.179.229:8000/play/a0ol/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1MAX | 57.1ms" tvg-logo="" group-title="Deportes Perú",L1MAX | 57.1ms
 http://38.43.132.201:8000/play/a0cz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="L1 MAX | 61.1ms" tvg-logo="" group-title="Deportes",L1 MAX | 61.1ms
+#EXTINF:-1 tvg-id="" tvg-name="L1 MAX | 61.1ms" tvg-logo="" group-title="Deportes Perú",L1 MAX | 61.1ms
 http://200.4.254.138:8000/play/foxsports3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="L1 MAX | 65.2ms" tvg-logo="" group-title="Deportes",L1 MAX | 65.2ms
+#EXTINF:-1 tvg-id="" tvg-name="L1 MAX | 65.2ms" tvg-logo="" group-title="Deportes Perú",L1 MAX | 65.2ms
 http://200.4.254.140:8000/play/foxsports3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1MAX | 75.2ms" tvg-logo="" group-title="Deportes Perú",L1MAX | 75.2ms
 http://190.108.83.86:8000/play/a03j/index.m3u8
@@ -517,7 +517,7 @@ http://181.224.226.128:5000/play/a07h/index.m3u8
 http://200.106.124.193:1983/play/a1p8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 90.8ms" tvg-logo="" group-title="Deportes",ESPN | 90.8ms
 http://190.108.83.86:8000/play/a0b6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 29.1ms" tvg-logo="" group-title="Deportes Perú",ESPN 2 | 29.1ms
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 29.1ms" tvg-logo="" group-title="Deportes",ESPN 2 | 29.1ms
 http://179.1.146.123:8002/play/a0o9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 | 29.4ms" tvg-logo="" group-title="Deportes",ESPN 2 | 29.4ms
 http://45.230.198.56:8000/play/a07p/index.m3u8

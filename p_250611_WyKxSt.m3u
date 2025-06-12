@@ -2263,8 +2263,6 @@ http://179.1.146.123:8002/play/a0ob/index.m3u8
 http://170.254.234.243:8888/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet |  23.1ms" tvg-logo="" group-title="Cultura y Documentales",Animal Planet |  23.1ms
 http://179.51.160.246:8888/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet | 24.1ms" tvg-logo="" group-title="Cultura y Documentales",Animal Planet | 24.1ms
-http://161.132.9.180:8001/play/a0jz/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet | 24.9ms" tvg-logo="" group-title="Cultura y Documentales",Animal Planet | 24.9ms
 http://209.45.62.52:8000/play/a0f7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet | 26ms" tvg-logo="" group-title="Cultura y Documentales",Animal Planet | 26ms

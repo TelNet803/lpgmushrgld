@@ -353,8 +353,6 @@ http://38.43.132.201:8000/play/a0cz/index.m3u8
 http://190.108.83.86:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1MAX | 94ms" tvg-logo="" group-title="Deportes Perú",L1MAX | 94ms
 http://200.106.124.193:1983/play/a1d9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes | 54.8ms" tvg-logo="" group-title="Deportes Perú",Movistar Deportes | 54.8ms
-http://38.252.209.39:40000/play/a0al/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H | 46.6ms" tvg-logo="" group-title="Noticias y Actualidad",24H | 46.6ms
 http://179.51.160.246:8888/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H | 46.7ms" tvg-logo="" group-title="Noticias y Actualidad",24H | 46.7ms

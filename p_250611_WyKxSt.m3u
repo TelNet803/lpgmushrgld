@@ -865,6 +865,8 @@ http://38.56.98.38:8050/play/a03t/index.m3u8
 http://200.106.124.193:1983/play/a1ki/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premiun | 91.5ms" tvg-logo="" group-title="Deportes",TNT Sports Premiun | 91.5ms
 http://38.191.228.9:8200/play/a0lh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports+ | 91.5ms" tvg-logo="" group-title="Deportes",Win Sports+ | 68.4ms
+http://181.64.186.177:8001/play/a0m5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="+CINE | 67.5ms" tvg-logo="" group-title="Cine y Series",+CINE | 67.5ms
 http://181.224.226.128:5000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="+CINE CLASSIC |  37.9ms" tvg-logo="" group-title="Cine y Series",+CINE CLASSIC |  37.9ms

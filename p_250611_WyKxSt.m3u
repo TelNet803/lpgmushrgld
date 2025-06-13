@@ -353,6 +353,8 @@ http://138.99.179.229:8000/play/a0ol/index.m3u8
 http://38.43.132.201:8000/play/a0cz/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1MAX | 94ms" tvg-logo="" group-title="Deportes Perú",L1MAX | 94ms
 http://200.106.124.193:1983/play/a1d9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OVACION TV | 41.7ms" tvg-logo="" group-title="Deportes Perú",OVACION TV | 41.7ms
+http://201.230.101.89:12000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H | 46.6ms" tvg-logo="" group-title="Noticias y Actualidad",24H | 46.6ms
 http://179.51.160.246:8888/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H | 46.7ms" tvg-logo="" group-title="Noticias y Actualidad",24H | 46.7ms
@@ -865,7 +867,7 @@ http://38.56.98.38:8050/play/a03t/index.m3u8
 http://200.106.124.193:1983/play/a1ki/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premiun | 91.5ms" tvg-logo="" group-title="Deportes",TNT Sports Premiun | 91.5ms
 http://38.191.228.9:8200/play/a0lh/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports+ | 91.5ms" tvg-logo="" group-title="Deportes",Win Sports+ | 68.4ms
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports+ | 68.4ms" tvg-logo="" group-title="Deportes",Win Sports+ | 68.4ms
 http://181.64.186.177:8001/play/a0m5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="+CINE | 67.5ms" tvg-logo="" group-title="Cine y Series",+CINE | 67.5ms
 http://181.224.226.128:5000/play/a03d/index.m3u8
@@ -1365,6 +1367,8 @@ http://201.230.101.89:12000/play/a07l/index.m3u8
 http://201.230.101.89:12000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NITRO LATINO |  41.8ms" tvg-logo="" group-title="Cine y Series",NITRO LATINO |  41.8ms
 http://181.224.226.128:5000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NITRO LATINO |  53.2ms" tvg-logo="" group-title="Cine y Series",NITRO LATINO |  53.2ms
+http://201.230.101.89:12000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount | 29ms" tvg-logo="" group-title="Cine y Series",Paramount | 29ms
 http://179.1.146.123:8002/play/a0f8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount |  30.5ms" tvg-logo="" group-title="Cine y Series",Paramount |  30.5ms
@@ -1871,6 +1875,8 @@ http://170.254.234.243:8888/play/a01a/index.m3u8
 http://161.132.9.180:8001/play/a0ga/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yoli TV | 27.7ms" tvg-logo="" group-title="Cine y Series",Yoli TV | 27.7ms
 http://161.132.9.180:8001/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dobe C | 41.5ms" tvg-logo="" group-title="Variedades y Entretenimiento",Doble C | 41.5ms
+http://201.230.101.89:12000/play/a07p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 13 | 32ms" tvg-logo="" group-title="Variedades y Entretenimiento",Canal 13 | 32ms
 http://38.43.132.201:8000/play/a0e0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 13 | 32.1ms" tvg-logo="" group-title="Variedades y Entretenimiento",Canal 13 | 32.1ms
@@ -1987,6 +1993,10 @@ http://201.230.137.104:8000/play/a0mi/index.m3u8
 http://200.106.124.193:1983/play/a1jx/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central | 92.8ms" tvg-logo="" group-title="Variedades y Entretenimiento",Comedy Central | 92.8ms
 http://179.1.146.123:8002/play/a0c5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOGAR TV | 56.3ms" tvg-logo="" group-title="Variedades y Entretenimiento",HOGAR TV | 56.3ms
+http://201.230.101.89:12000/play/a04e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ECUAVISA | 61.1ms" tvg-logo="" group-title="Variedades y Entretenimiento",ECUAVISA | 61.1ms
+http://201.230.101.89:12000/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Entertaiment |  21.3ms" tvg-logo="" group-title="Variedades y Entretenimiento",Entertaiment |  21.3ms
 http://179.51.160.246:8888/play/a028/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Entertaiment |  42ms" tvg-logo="" group-title="Variedades y Entretenimiento",Entertaiment |  42ms

@@ -1951,8 +1951,6 @@ http://138.99.179.229:8000/play/a0ib/index.m3u8
 http://200.106.124.193:1983/play/a1kg/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHV | 86ms" tvg-logo="" group-title="Variedades y Entretenimiento",CHV | 86ms
 http://201.230.101.89:12000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dobe C | 41.5ms" tvg-logo="" group-title="Variedades y Entretenimiento",Doble C | 41.5ms
-http://201.230.101.89:12000/play/a07p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central | 26.1ms" tvg-logo="" group-title="Variedades y Entretenimiento",Comedy Central | 26.1ms
 http://179.51.160.246:8888/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central | 26.4ms" tvg-logo="" group-title="Variedades y Entretenimiento",Comedy Central | 26.4ms

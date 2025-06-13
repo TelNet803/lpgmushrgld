@@ -1993,8 +1993,8 @@ http://201.230.137.104:8000/play/a0mi/index.m3u8
 http://200.106.124.193:1983/play/a1jx/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central | 92.8ms" tvg-logo="" group-title="Variedades y Entretenimiento",Comedy Central | 92.8ms
 http://179.1.146.123:8002/play/a0c5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOGAR TV | 56.3ms" tvg-logo="" group-title="Variedades y Entretenimiento",HOGAR TV | 56.3ms
-http://201.230.101.89:12000/play/a04e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DOBLE C | 41.5ms" tvg-logo="" group-title="Variedades y Entretenimiento",DOBLE C | 41.5ms
+http://201.230.101.89:12000/play/a07p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ECUAVISA | 61.1ms" tvg-logo="" group-title="Variedades y Entretenimiento",ECUAVISA | 61.1ms
 http://201.230.101.89:12000/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Entertaiment |  21.3ms" tvg-logo="" group-title="Variedades y Entretenimiento",Entertaiment |  21.3ms
@@ -2039,6 +2039,8 @@ http://200.60.46.118:8001/play/a03k/index.m3u8
 http://190.108.80.138:8000/play/a0bl/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Las Estrellas | 93.2ms" tvg-logo="" group-title="Variedades y Entretenimiento",Las Estrellas | 93.2ms
 http://200.106.124.193:1983/play/a1pb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOGAR TV | 56.3ms" tvg-logo="" group-title="Variedades y Entretenimiento",HOGAR TV | 56.3ms
+http://201.230.101.89:12000/play/a04e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA | 26.8ms" tvg-logo="" group-title="Variedades y Entretenimiento",MEGA | 26.8ms
 http://209.45.62.52:8000/play/a0cq/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MEGA | 29ms" tvg-logo="" group-title="Variedades y Entretenimiento",MEGA | 29ms

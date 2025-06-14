@@ -63,7 +63,7 @@ http://179.51.160.246:8888/play/a001/index.m3u8
 http://209.45.62.52:8000/play/a0bj/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="America TV | 26.7ms" tvg-logo="" group-title="Canales Peruanos",America TV | 26.7ms
 http://177.53.154.183:8000/play/a0oy/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="America TV | 26.7ms" tvg-logo="" group-title="Canales Peruanos",America TV | 26.7ms
+#EXTINF:-1 tvg-id="" tvg-name="America TV | 26.8ms" tvg-logo="" group-title="Canales Peruanos",America TV | 26.8ms
 http://177.53.154.183:8000/play/a0g8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="America TV | 29.9ms" tvg-logo="" group-title="Canales Peruanos",America TV | 29.9ms
 http://179.1.146.123:8002/play/a0og/index.m3u8
@@ -331,7 +331,7 @@ http://209.45.103.44:5000/play/a0jw/index.m3u8
 http://179.1.146.123:8002/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Viva TV | 33.2ms" tvg-logo="" group-title="Canales Peruanos",Viva TV | 33.2ms
 http://38.252.209.39:40000/play/a0ex/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLPERU | 29.1ms" tvg-logo="" group-title="Deportes",GOLPERU | 29.1ms
+#EXTINF:-1 tvg-id="" tvg-name="GOLPERU | 29.1ms" tvg-logo="" group-title="Deportes Perú",GOLPERU | 29.1ms
 http://179.1.146.123:8002/play/a0o9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1 |  41.7ms" tvg-logo="" group-title="Deportes Perú",L1 |  41.7ms
 http://170.254.234.243:8888/play/a00g/index.m3u8

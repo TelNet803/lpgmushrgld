@@ -1807,10 +1807,6 @@ http://200.106.124.193:1983/play/a1lf/index.m3u8
 http://190.108.83.86:8000/play/a0ai/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UNITEL | 58.3ms" tvg-logo="" group-title="Cine y Series",UNITEL | 58.3ms
 http://181.224.226.128:5000/play/a00o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME |  75.3ms" tvg-logo="" group-title="Cine y Series",UNIVERSAL CRIME |  75.3ms
-http://45.232.148.101:8000/play/a132/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE |  25.5ms" tvg-logo="" group-title="Cine y Series",UNIVERSAL PREMIERE |  25.5ms
-http://45.232.148.101:8000/play/a13s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal TV |  25.5ms" tvg-logo="" group-title="Cine y Series",Universal TV |  25.5ms
 http://179.51.160.246:8888/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Universal TV | 32.1ms" tvg-logo="" group-title="Cine y Series",Universal TV | 32.1ms

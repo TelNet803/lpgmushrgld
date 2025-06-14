@@ -1195,11 +1195,11 @@ http://179.51.160.246:8888/play/a01d/index.m3u8
 http://170.254.234.243:8888/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden Premiere | 23.7ms" tvg-logo="" group-title="Cine y Series",Golden Premiere | 23.7ms
 http://179.51.160.246:8888/play/a029/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere | 26.7ms" tvg-logo="" group-title="Cine y Series",Golden Premiere | 26.7ms
+http://179.51.160.246:8888/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden Premiere |  41.1ms" tvg-logo="" group-title="Cine y Series",Golden Premiere |  41.1ms
 http://170.254.234.243:8888/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Golden Premiere | 63.3ms" tvg-logo="" group-title="Cine y Series",Golden Premiere | 63.3ms
-#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere | 77.8ms" tvg-logo="" group-title="Cine y Series",Golden Premiere | 77.8ms
-http://45.232.148.101:8000/play/a10z/index.m3u8
 http://161.132.9.180:8001/play/a0jv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO | 26.1ms" tvg-logo="" group-title="Cine y Series",HBO | 26.1ms
 http://177.53.154.183:8000/play/a0gn/index.m3u8

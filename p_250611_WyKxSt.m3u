@@ -887,8 +887,6 @@ http://45.230.198.56:8000/play/a02v/index.m3u8
 http://38.43.132.201:8000/play/a0an/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E | 33.5ms" tvg-logo="" group-title="Cine y Series",A&E | 33.5ms
 http://179.1.146.123:8002/play/a0ls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A&E | 34ms" tvg-logo="" group-title="Cine y Series",A&E | 34ms
-http://38.252.209.39:40000/play/a09j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E | 35.7ms" tvg-logo="" group-title="Cine y Series",A&E | 35.7ms
 http://38.172.128.4:8000/play/a0ox/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E | 38.4ms" tvg-logo="" group-title="Cine y Series",A&E | 38.4ms
@@ -1815,8 +1813,6 @@ http://200.106.124.193:1983/play/a1lb/index.m3u8
 http://179.51.160.246:8888/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA |  40.1ms" tvg-logo="" group-title="Cine y Series",USA |  40.1ms
 http://170.254.234.243:8888/play/a02d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA | 64.4ms" tvg-logo="" group-title="Cine y Series",USA | 64.4ms
-http://200.106.124.193:1983/play/a0r8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel | 27.1ms" tvg-logo="" group-title="Cine y Series",Warner Channel | 27.1ms
 http://209.45.62.52:8000/play/a0fe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel | 28.6ms" tvg-logo="" group-title="Cine y Series",Warner Channel | 28.6ms

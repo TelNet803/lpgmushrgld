@@ -1133,8 +1133,14 @@ http://179.51.160.246:8888/play/a027/index.m3u8
 http://170.254.234.243:8888/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FreeTV ACCION | 75.1ms" tvg-logo="" group-title="Cine y Series",FreeTV ACCION | 75.1ms
 http://45.232.148.101:8000/play/a0yx/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FreeTV DRAMA | 542.4ms" tvg-logo="" group-title="Cine y Series",FreeTV DRAMA | 542.4ms
+http://181.78.78.66:8000/play/a02t
+#EXTINF:-1 tvg-id="" tvg-name="FreeTV ESTELAR | 564.9ms" tvg-logo="" group-title="Cine y Series",FreeTV ESTELAR | 564.9ms
+http://181.78.78.66:8000/play/a0bl
 #EXTINF:-1 tvg-id="" tvg-name="FreeTV FAMILIA | 66.9ms" tvg-logo="" group-title="Cine y Series",FreeTV FAMILIA | 66.9ms
 http://45.232.148.101:8000/play/a112/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FreeTV FAMILIA | 493.4ms" tvg-logo="" group-title="Cine y Series",FreeTV FAMILIA | 493.4ms
+http://181.78.78.66:8000/play/a09o
 #EXTINF:-1 tvg-id="" tvg-name="FX |  24.6ms" tvg-logo="" group-title="Cine y Series",FX |  24.6ms
 http://179.51.160.246:8888/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FX | 25.5ms" tvg-logo="" group-title="Cine y Series",FX | 25.5ms

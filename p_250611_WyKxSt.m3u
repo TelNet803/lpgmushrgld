@@ -409,6 +409,8 @@ http://138.99.179.229:8000/play/a0bf/index.m3u8
 http://179.51.160.246:8888/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telesur | 41.7ms" tvg-logo="" group-title="Noticias y Actualidad",Telesur | 41.7ms
 http://170.254.234.243:8888/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Free Sports | 37.8ms" tvg-logo="" group-title="Deportes",free Sports | 37.8ms
+http://38.172.128.4:8000/play/a0re/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DSports | 44.8ms" tvg-logo="" group-title="Deportes",DSports | 44.8ms
 http://45.230.198.56:8000/play/a00ds/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DSports | 61.4ms" tvg-logo="" group-title="Deportes",DSports | 61.4ms
@@ -417,8 +419,6 @@ http://45.232.148.101:8000/play/a13v/index.m3u8
 http://38.211.242.128:8001/play/a09s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DSports | 84.6ms" tvg-logo="" group-title="Deportes",DSports | 84.6ms
 http://200.106.124.193:1983/play/a1if/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Free Sports | 37.8ms" tvg-logo="" group-title="Deportes",free Sports | 37.8ms
-http://38.172.128.4:8000/play/a0re/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DSports 2 | 96.6ms" tvg-logo="" group-title="Deportes",DSports 2 | 96.6ms
 http://38.211.242.128:8001/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DSports + | 61.6ms" tvg-logo="" group-title="Deportes",DSports + | 61.6ms

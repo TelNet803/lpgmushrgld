@@ -409,6 +409,8 @@ http://170.254.234.243:8888/play/a02h/index.m3u8
 http://45.230.198.56:8000/play/a00ds/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sport | 61.4ms" tvg-logo="" group-title="Deportes",Directv Sport | 61.4ms
 http://45.232.148.101:8000/play/a13v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sport | 62.2ms" tvg-logo="" group-title="Deportes",Directv Sport | 62.2ms
+http://38.211.242.128:8001/play/a09s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sport | 84.6ms" tvg-logo="" group-title="Deportes",Directv Sport | 84.6ms
 http://200.106.124.193:1983/play/a1if/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN |  23.7ms" tvg-logo="" group-title="Deportes",ESPN |  23.7ms

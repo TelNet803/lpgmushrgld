@@ -333,6 +333,8 @@ http://179.1.146.123:8002/play/a080/index.m3u8
 http://38.252.209.39:40000/play/a0ex/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLPERU | 29.1ms" tvg-logo="" group-title="Deportes Perú",GOLPERU | 29.1ms
 http://179.1.146.123:8002/play/a0o9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOLPERU | 50.7ms" tvg-logo="" group-title="Deportes Perú",GOLPERU | 50.7ms
+http://38.211.242.128:8001/play/a09j/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1 |  41.7ms" tvg-logo="" group-title="Deportes Perú",L1 |  41.7ms
 http://170.254.234.243:8888/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1 | 43.1ms" tvg-logo="" group-title="Deportes Perú",L1 | 43.1ms
@@ -353,6 +355,8 @@ http://138.99.179.229:8000/play/a0ol/index.m3u8
 http://38.43.132.201:8000/play/a0cz/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1MAX | 94ms" tvg-logo="" group-title="Deportes Perú",L1MAX | 94ms
 http://200.106.124.193:1983/play/a1d9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes | 31.7ms" tvg-logo="" group-title="Deportes Perú",Movistar Deportes | 31.7ms
+http://38.211.242.128:8001/play/a09i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OVACION TV | 41.7ms" tvg-logo="" group-title="Deportes Perú",OVACION TV | 41.7ms
 http://201.230.101.89:12000/play/a076/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24H | 46.6ms" tvg-logo="" group-title="Noticias y Actualidad",24H | 46.6ms
@@ -405,14 +409,18 @@ http://138.99.179.229:8000/play/a0bf/index.m3u8
 http://179.51.160.246:8888/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telesur | 41.7ms" tvg-logo="" group-title="Noticias y Actualidad",Telesur | 41.7ms
 http://170.254.234.243:8888/play/a02h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sport | 44.8ms" tvg-logo="" group-title="Deportes",Directv Sport | 44.8ms
+#EXTINF:-1 tvg-id="" tvg-name="DSports | 44.8ms" tvg-logo="" group-title="Deportes",DSports | 44.8ms
 http://45.230.198.56:8000/play/a00ds/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sport | 61.4ms" tvg-logo="" group-title="Deportes",Directv Sport | 61.4ms
+#EXTINF:-1 tvg-id="" tvg-name="DSports | 61.4ms" tvg-logo="" group-title="Deportes",DSports | 61.4ms
 http://45.232.148.101:8000/play/a13v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sport | 62.2ms" tvg-logo="" group-title="Deportes",Directv Sport | 62.2ms
+#EXTINF:-1 tvg-id="" tvg-name="DSports | 62.2ms" tvg-logo="" group-title="Deportes",DSports | 62.2ms
 http://38.211.242.128:8001/play/a09s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sport | 84.6ms" tvg-logo="" group-title="Deportes",Directv Sport | 84.6ms
+#EXTINF:-1 tvg-id="" tvg-name="DSports | 84.6ms" tvg-logo="" group-title="Deportes",DSports | 84.6ms
 http://200.106.124.193:1983/play/a1if/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSports 2 | 96.6ms" tvg-logo="" group-title="Deportes",DSports 2 | 96.6ms
+http://38.211.242.128:8001/play/a05g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSports + | 61.6ms" tvg-logo="" group-title="Deportes",DSports + | 61.6ms
+http://38.211.242.128:8001/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN |  23.7ms" tvg-logo="" group-title="Deportes",ESPN |  23.7ms
 http://179.51.160.246:8888/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 27.8ms" tvg-logo="" group-title="Deportes",ESPN | 27.8ms
@@ -1247,6 +1255,12 @@ http://190.108.83.86:8000/play/a08g/index.m3u8
 http://200.106.124.193:1983/play/a1k9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO | 92.3ms" tvg-logo="" group-title="Cine y Series",HBO | 92.3ms
 http://190.108.80.138:8000/play/a087/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 | 37.2ms" tvg-logo="" group-title="Cine y Series",HBO 2 | 37.2ms
+http://38.211.242.128:8001/play/a09d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 | 44.6ms" tvg-logo="" group-title="Cine y Series",HBO 2 | 44.6ms
+http://38.211.242.128:8001/play/a0e4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO + | 53.1ms" tvg-logo="" group-title="Cine y Series",HBO + | 53.1ms
+http://38.211.242.128:8001/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family | 25.6ms" tvg-logo="" group-title="Cine y Series",HBO Family | 25.6ms
 http://209.45.62.52:8000/play/a0ep/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family | 28.1ms" tvg-logo="" group-title="Cine y Series",HBO Family | 28.1ms

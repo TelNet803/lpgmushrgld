@@ -1489,8 +1489,6 @@ http://200.106.124.193:1983/play/a1k2/index.m3u8
 http://179.51.160.246:8888/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Movies | 23.8ms" tvg-logo="" group-title="Cine y Series",Sony Movies | 23.8ms
 http://161.132.9.180:8001/play/a08y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies | 26.3ms" tvg-logo="" group-title="Cine y Series",Sony Movies | 26.3ms
-http://161.132.9.180:8001/play/a0k3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Movies | 28.9ms" tvg-logo="" group-title="Cine y Series",Sony Movies | 28.9ms
 http://179.1.146.123:8002/play/a0fl/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Movies |  41.7ms" tvg-logo="" group-title="Cine y Series",Sony Movies |  41.7ms

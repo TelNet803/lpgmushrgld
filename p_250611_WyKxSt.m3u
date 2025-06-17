@@ -893,6 +893,8 @@ http://181.224.226.128:5000/play/a0cj/index.m3u8
 http://181.224.226.128:5000/play/a03c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="+CINE TERROR |  47.3ms" tvg-logo="" group-title="Cine y Series",+CINE TERROR |  47.3ms
 http://181.224.226.128:5000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="+CINE SONY |  193.3ms" tvg-logo="" group-title="Cine y Series",+CINE SONY |  193.3ms
+http://190.60.42.86:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E | 29.8ms" tvg-logo="" group-title="Cine y Series",A&E | 29.8ms
 http://179.1.146.123:8002/play/a0c4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E | 29.9ms" tvg-logo="" group-title="Cine y Series",A&E | 29.9ms

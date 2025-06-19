@@ -45,14 +45,10 @@ http://201.230.105.202:8126/play/a0rt1/index.m3u8
 http://38.191.228.9:8200/play/a0rz/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 82.9ms" tvg-logo="" group-title="Canales Peruanos",Latina | 82.9ms
 http://200.106.124.193:1983/play/a1pe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latina | 85.3ms" tvg-logo="" group-title="Canales Peruanos",Latina | 85.3ms
-http://190.108.83.86:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 89.1ms" tvg-logo="" group-title="Canales Peruanos",Latina | 89.1ms
 http://190.108.80.138:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 90.4ms" tvg-logo="" group-title="Canales Peruanos",Latina | 90.4ms
 http://201.230.101.89:12000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latina Clasicos | 61.5ms" tvg-logo="" group-title="Canales Peruanos",Latina Clasicos | 61.5ms
-http://201.230.101.89:12000/play/a07w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="America TV | 25.1ms" tvg-logo="" group-title="Canales Peruanos",America TV | 25.1ms
 http://179.51.160.246:8888/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="America TV | 25.9ms" tvg-logo="" group-title="Canales Peruanos",America TV | 25.9ms
@@ -427,8 +423,6 @@ http://181.64.186.177:8001/play/a0ai/index.m3u8
 http://38.56.98.38:8050/play/a01i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 46.2ms" tvg-logo="" group-title="Deportes",ESPN | 46.2ms
 http://201.230.137.104:8000/play/a0le/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 48.5ms" tvg-logo="" group-title="Deportes",ESPN | 48.5ms
-http://179.1.146.123:8002/play/a0lk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 49.2ms" tvg-logo="" group-title="Deportes",ESPN | 49.2ms
 http://190.108.80.138:8000/play/a0ep/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 50.9ms" tvg-logo="" group-title="Deportes",ESPN | 50.9ms
@@ -447,8 +441,6 @@ http://138.99.179.229:8000/play/a0qv/index.m3u8
 http://200.60.46.118:8001/play/a0ai/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 62.7ms" tvg-logo="" group-title="Deportes",ESPN | 62.7ms
 http://201.230.105.202:8126/play/a0rv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN | 63.4ms" tvg-logo="" group-title="Deportes",ESPN | 63.4ms
-http://38.56.98.38:8050/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 63.7ms" tvg-logo="" group-title="Deportes",ESPN | 63.7ms
 http://138.99.179.229:8000/play/a0pr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 69.9ms" tvg-logo="" group-title="Deportes",ESPN | 69.9ms

@@ -1445,8 +1445,6 @@ http://200.106.124.193:1983/play/a1ku/index.m3u8
 http://179.51.160.246:8888/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star TVE | 42.5ms" tvg-logo="" group-title="Cine y Series",Star TVE | 42.5ms
 http://170.254.234.243:8888/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star TVE | 182.6ms" tvg-logo="" group-title="Cine y Series",Star TVE | 182.6ms
-http://80.80.91.195:8000/play/a0d7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Studio Universal | 25.8ms" tvg-logo="" group-title="Cine y Series",Studio Universal | 25.8ms
 http://177.53.154.183:8000/play/a0ov/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Studio Universal | 30.7ms" tvg-logo="" group-title="Cine y Series",Studio Universal | 30.7ms
@@ -2573,7 +2571,7 @@ http://179.63.6.17:9000/play/a081
 http://190.60.42.86:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel | 33.5ms" tvg-logo="" group-title="Infantil y Juvenil",Disney Channel | 33.5ms
 http://181.224.226.128:5000/play/a081/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel | 33.5ms" tvg-logo="" group-title="Infantil y Juvenil",Disney Channel | 33.5ms
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel | 33.6ms" tvg-logo="" group-title="Infantil y Juvenil",Disney Channel | 33.6ms
 http://38.43.132.201:8000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel | 35.2ms" tvg-logo="" group-title="Infantil y Juvenil",Disney Channel | 35.2ms
 http://38.172.128.4:8000/play/a0ui/index.m3u8

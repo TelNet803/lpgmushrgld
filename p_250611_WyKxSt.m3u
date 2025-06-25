@@ -37,6 +37,8 @@ http://38.56.98.38:8050/play/a01n/index.m3u8
 http://181.224.226.128:5000/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 53.7ms" tvg-logo="" group-title="Canales Peruanos",Latina | 53.7ms
 http://179.1.146.123:8002/play/a0fe/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina| 57ms" tvg-logo="" group-title="Canales Peruanos",Latina| 57ms
+http://209.45.103.44:5000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 68.7ms" tvg-logo="" group-title="Canales Peruanos",Latina | 68.7ms
 http://201.230.105.202:8126/play/a0rt1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 74.8ms" tvg-logo="" group-title="Canales Peruanos",Latina | 74.8ms
@@ -209,6 +211,8 @@ http://170.254.234.243:8888/play/a006/index.m3u8
 http://138.99.179.229:8000/play/a0of/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exitosa | 53.5ms" tvg-logo="" group-title="Canales Peruanos",Exitosa | 53.5ms
 http://138.99.179.229:8000/play/a0or/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exitosa | 55.7ms" tvg-logo="" group-title="Canales Peruanos",Exitosa | 55.7ms
+http://209.45.103.44:5000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Exitosa | 69.1ms" tvg-logo="" group-title="Canales Peruanos",Exitosa | 69.1ms
 http://200.106.124.193:1983/play/a1ib/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RPP | 24.1ms" tvg-logo="" group-title="Canales Peruanos",RPP | 24.1ms
@@ -227,10 +231,6 @@ http://179.51.160.246:8888/play/a004/index.m3u8
 http://161.132.9.180:8001/play/a0fc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RPP |  53.7ms" tvg-logo="" group-title="Canales Peruanos",RPP |  53.7ms
 http://138.99.179.229:8000/play/a0oj/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exitosa | 55.7ms" tvg-logo="" group-title="Canales Peruanos",Exitosa | 55.7ms
-http://209.45.103.44:5000/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latina| 57ms" tvg-logo="" group-title="Canales Peruanos",Latina| 57ms
-http://209.45.103.44:5000/play/a02c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Willax | 26.1ms" tvg-logo="" group-title="Canales Peruanos",Willax | 26.1ms
 http://179.51.160.246:8888/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Willax | 27.7ms" tvg-logo="" group-title="Canales Peruanos",Willax | 27.7ms

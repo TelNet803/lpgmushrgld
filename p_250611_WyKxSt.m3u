@@ -11,6 +11,8 @@ http://45.230.198.56:8000/play/a01k/index.m3u8
 http://38.43.132.201:8000/play/a0bz/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina | 35.1ms" tvg-logo="" group-title="Canales Peruanos",Latina | 35.1ms
 http://38.172.128.4:8000/play/a0j2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina| 38.9ms" tvg-logo="" group-title="Canales Peruanos",Latina| 38.9ms
+http://209.45.103.44:5000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina |  40.7ms" tvg-logo="" group-title="Canales Peruanos",Latina |  40.7ms
 http://179.51.160.246:8888/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina |  42.5ms" tvg-logo="" group-title="Canales Peruanos",Latina |  42.5ms
@@ -215,8 +217,6 @@ http://161.132.9.180:8001/play/a0hd/index.m3u8
 http://161.132.9.180:8001/play/a0jp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RPP | 34.3ms" tvg-logo="" group-title="Canales Peruanos",RPP | 34.3ms
 http://161.132.9.180:8001/play/a0k5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latina| 38.9ms" tvg-logo="" group-title="Canales Peruanos",Latina| 38.9ms
-http://209.45.103.44:5000/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RPP | 40.4ms" tvg-logo="" group-title="Canales Peruanos",RPP | 40.4ms
 http://201.230.101.89:12000/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RPP |  40.7ms" tvg-logo="" group-title="Canales Peruanos",RPP |  40.7ms

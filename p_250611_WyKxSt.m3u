@@ -153,16 +153,16 @@ http://179.1.146.123:8002/play/a0ho/index.m3u8
 http://190.108.89.228:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews | 84.6ms" tvg-logo="" group-title="Noticias y Actualidad",Euronews | 84.6ms
 http://201.230.101.89:12000/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSports | 62.2ms | 53.1ms" tvg-logo="" group-title="Deportes",DSports | 62.2ms | 53.1ms
+#EXTINF:-1 tvg-id="" tvg-name="DSports | 53.1ms" tvg-logo="" group-title="Deportes",DSports | 53.1ms
 http://38.211.242.128:8001/play/a09s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSports + | 61.6ms | 55.9ms" tvg-logo="" group-title="Deportes",DSports + | 61.6ms | 55.9ms
-http://38.211.242.128:8001/play/a05h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DSports | 57.1ms" tvg-logo="" group-title="Deportes",DSports | 57.1ms
-http://190.108.89.228:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DSports | 62.7ms" tvg-logo="" group-title="Deportes",DSports | 62.7ms
 http://201.230.121.186:8000/play/a0j4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DSports | 65.3ms" tvg-logo="" group-title="Deportes",DSports | 65.3ms
 http://201.230.121.85:8000/play/a0tb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSports | 57.1ms" tvg-logo="" group-title="Deportes",DSports | 57.1ms
+http://190.108.89.228:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DSports + | 55.9ms" tvg-logo="" group-title="Deportes",DSports + | 55.9ms
+http://38.211.242.128:8001/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 31.2ms" tvg-logo="" group-title="Deportes",ESPN | 31.2ms
 http://179.1.146.123:8002/play/a0b0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN | 35.2ms" tvg-logo="" group-title="Deportes",ESPN | 35.2ms

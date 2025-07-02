@@ -95,6 +95,8 @@ http://201.230.121.186:8000/play/a0dq/index.m3u8
 http://190.108.89.228:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BAMBU TV | 43.1ms" tvg-logo="" group-title="Regionales Perú",BAMBU TV | 43.1ms
 http://201.230.121.85:8000/play/a0ol/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DATA TV | 51.8ms" tvg-logo="" group-title="Regionales Perú",DATA TV | 51.8ms
+http://201.230.121.85:8000/play/DATA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOYOBAMBA | 33.9ms" tvg-logo="" group-title="Regionales Perú",MOYOBAMBA | 33.9ms
 http://190.108.89.228:8000/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SELVA TV | 38.3ms" tvg-logo="" group-title="Regionales Perú",SELVA TV | 38.3ms
@@ -111,6 +113,10 @@ http://201.230.121.85:8000/play/a0lp/index.m3u8
 http://201.230.121.85:8000/play/a0x1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CREO TV | 97.9ms" tvg-logo="" group-title="Regionales Perú",CREO TV | 97.9ms
 http://201.230.101.89:12000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STEREO TV | 68.0ms" tvg-logo="" group-title="Regionales Perú",STEREO TV | 68.0ms
+http://201.230.121.85:8000/play/LALOTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TURBO MIX CAJAMARCA | 46.6ms" tvg-logo="" group-title="Regionales Perú",TURBO MIX CAJAMARCA | 46.6ms
+http://201.230.101.89:12000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="URANIO | 57.7ms" tvg-logo="" group-title="Regionales Perú",URANIO | 57.7ms
 http://190.108.89.228:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VISION TV | 62.4ms" tvg-logo="" group-title="Regionales Perú",VISION TV | 62.4ms
@@ -1207,8 +1213,6 @@ http://200.121.48.215:8000/play/a04f/index.m3u8
 http://201.230.137.204:8000/play/a0k0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HEI | 49.7ms" tvg-logo="" group-title="Música y Conciertos",HEI | 49.7ms
 http://190.108.89.228:8000/play/a0do/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DATA TV | 51.8ms" tvg-logo="" group-title="Música y Conciertos",DATA TV | 51.8ms
-http://201.230.121.85:8000/play/DATA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV | 29.0ms" tvg-logo="" group-title="Música y Conciertos",MTV | 29.0ms
 http://179.1.146.123:8002/play/a0ci/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV | 39.4ms" tvg-logo="" group-title="Música y Conciertos",MTV | 39.4ms
@@ -1247,16 +1251,12 @@ http://200.121.48.215:8000/play/a03j/index.m3u8
 http://190.108.83.86:8000/play/a0aj/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rumba TV | 63.4ms" tvg-logo="" group-title="Música y Conciertos",Rumba TV | 63.4ms
 http://201.230.101.89:12000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STEREO TV | 68.0ms" tvg-logo="" group-title="Música y Conciertos",STEREO TV | 68.0ms
-http://201.230.121.85:8000/play/LALOTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Concerts | 40.7ms" tvg-logo="" group-title="Música y Conciertos",Stingray Concerts | 40.7ms
 http://201.230.137.204:8000/play/a0gt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Concerts | 42.5ms" tvg-logo="" group-title="Música y Conciertos",Stingray Concerts | 42.5ms
 http://179.1.146.123:8002/play/a0b1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Concerts | 57.1ms" tvg-logo="" group-title="Música y Conciertos",Stingray Concerts | 57.1ms
 http://190.108.80.138:8000/play/a07h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TURBO MIX CAJAMARCA | 46.6ms" tvg-logo="" group-title="Música y Conciertos",TURBO MIX CAJAMARCA | 46.6ms
-http://201.230.101.89:12000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telenostalgia | 61.0ms" tvg-logo="" group-title="Música y Conciertos",Telenostalgia | 61.0ms
 http://201.230.101.89:12000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network | 30.4ms" tvg-logo="" group-title="Infantil y Juvenil",Cartoon Network | 30.4ms
